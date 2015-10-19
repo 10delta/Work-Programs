@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Theatre and Performance Project Report", "Theatre and Performance Project Report.rptproj", "{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Production|Default = Production|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.Debug|Default.ActiveCfg = Debug
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.Debug|Default.Build.0 = DebugLocal
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.Debug|Default.Deploy.0 = DebugLocal
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.DebugLocal|Default.Build.0 = DebugLocal
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.Production|Default.ActiveCfg = Production
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.Production|Default.Build.0 = Production
+		{E2369919-4E89-4BDB-A5D2-9F92280BDE4C}.Production|Default.Deploy.0 = Production
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
